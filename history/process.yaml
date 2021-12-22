@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE02SHSM-RID26-07-NUTNRB000-recovered_host-nutnr_b_dcl_dark_conc_instrument_recovered
 data_stream: CE02SHSM-RID26-07-NUTNRB000-recovered_host-nutnr_b_dcl_dark_conc_instrument_recovered
 end_date: '2016-05-16T21:00:10.293Z'
-last_updated: '2021-12-22T02:27:46.446417Z'
+last_updated: '2021-12-22T02:29:56.199045'
 start_date: '2015-04-02T21:00:32.448Z'
-status: pending
+status: success
